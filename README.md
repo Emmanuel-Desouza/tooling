@@ -155,3 +155,24 @@ Finished: SUCCESS
 SSH: Transferred 25 file(s)
 Finished: SUCCESS
 ```
+
+### Send build over SSH test
+
+```
+SSH: Transferred 25 file(s)
+Finished: SUCCESS
+```
+
+### Send build over SSH test
+
+```
+SSH: Transferred 25 file(s)
+Finished: SUCCESS
+```
+
+### Send build over SSH test
+
+```
+SSH: Transferred 25 file(s)
+Finished: SUCCESS
+```
