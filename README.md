@@ -141,3 +141,10 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
+
+### Send build over SSH test
+
+```
+SSH: Transferred 25 file(s)
+Finished: SUCCESS
+```
